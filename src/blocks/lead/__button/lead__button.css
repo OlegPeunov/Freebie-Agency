@@ -1,0 +1,13 @@
+.lead__button{
+  font-weight: 700;
+  font-style: normal;
+  font-size: 22px;
+  color:white;
+  font-family: 'Oswald';
+  letter-spacing: 4px; 
+  background-color: transparent;
+  border: none;
+  opacity: 70%;
+  cursor: pointer;
+}
+

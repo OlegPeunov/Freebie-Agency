@@ -1,8 +1,15 @@
 import React from 'react';
 
+
 function Header() {
+
+
   return(
-    <header>Здесь все круто</header>
+    <>
+      <header className="header">Здесь все круто</header>
+    </>
+    
+
   )
 
 

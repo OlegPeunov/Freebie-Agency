@@ -1,9 +1,21 @@
-import './App.css';
+import '../index';
+import React from 'react';
 import Header from './Header';
+import Lead from './Lead';
+import FirstSection from './FirstSection';
+
+
+
 
 function App() {
   return(
-    <Header />
+    <>
+      {/* <Header /> */}
+      <Lead />
+      <FirstSection />
+
+    </>
+    
   )
   
 

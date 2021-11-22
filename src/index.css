@@ -1,0 +1,15 @@
+@import url(./vendor/normalize.css);
+@import url(./vendor/fonts.css);
+@import url(./blocks/header/header.css);
+@import url(./blocks/lead/lead.css);
+@import url(./blocks/firstSection/firstSection.css);
+
+
+body {
+  text-align: center;
+  max-width: 1800px;
+  padding: 0;
+  margin: 0 auto;
+  flex-direction: column;
+
+}
