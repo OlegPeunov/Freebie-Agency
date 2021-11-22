@@ -1,0 +1,20 @@
+@import url('./__main-pic/lead__main-pic.css');
+@import url('./__main-title/lead__main-title.css');
+@import url('./__main-subtitle/lead__main-subtitle.css');
+@import url('./__buttons-list/lead__buttons-list.css');
+@import url('./__button/lead__button.css');
+@import url('./__button/_choise/lead__button_choise-active.css');
+
+
+
+.lead {
+  height: 100vh;
+  max-width: 1800px; 
+  background-image: url('../../images/Bitmap.svg');
+  display:flex;
+  background-image: url('../../images/Image.jpg');
+  flex-direction: column;
+  background-position: center;
+  
+}
+ 

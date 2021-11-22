@@ -1,0 +1,11 @@
+.lead__main-subtitle{
+  font-weight: 500;
+  font-style: normal;
+  font-size: 20px;
+  color:white;
+  margin: 24px auto 0 ;
+  line-height: 23px;
+  font-family: 'OpenSans';
+  letter-spacing: 2px;
+  opacity: 70%;
+}

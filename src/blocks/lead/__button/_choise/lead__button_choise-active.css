@@ -1,0 +1,11 @@
+.lead__button_choise-active{
+  font-weight: 700;
+  font-style: normal;
+  font-size: 43px;
+  color:white;
+  font-family: 'Oswald';
+  letter-spacing: 4px; 
+  background-color: transparent;
+  border: none;
+  opacity: 100%;
+}
